@@ -1,0 +1,36 @@
+[
+  {
+    "land_number": "1396",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 1.08
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.22
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.4
+      }
+    ]
+  },
+  {
+    "land_number": "1397",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 1.04
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.17
+      },
+      {
+        "key_name": "left",
+        "time_press": 0.53
+      }
+    ]
+  }
+]
