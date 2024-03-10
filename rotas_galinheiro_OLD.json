@@ -17,7 +17,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 0.94
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -34,7 +34,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 0.93
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -43,28 +43,11 @@
     ]
   },
   {
-    "land_number": "1082",
-    "directions": [
-      {
-        "key_name": "right",
-        "time_press": 1.06
-      },
-      {
-        "key_name": "up",
-        "time_press": 3.07
-      },
-      {
-        "key_name": "left",
-        "time_press": 1.55
-      }
-    ]
-  },
-  {
     "land_number": "1084",
     "directions": [
       {
         "key_name": "right",
-        "time_press": 0.9
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -81,7 +64,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 0.96
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -98,7 +81,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.02
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -107,10 +90,6 @@
       {
         "key_name": "left",
         "time_press": 3.48
-      },
-      {
-        "key_name": "up",
-        "time_press": 0.24
       }
     ]
   },
@@ -119,11 +98,11 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.08
+        "time_press": 0.99
       },
       {
         "key_name": "up",
-        "time_press": 3.07
+        "time_press": 2.40
       }
     ]
   },
@@ -132,7 +111,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -149,7 +128,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -162,66 +141,15 @@
     ]
   },
   {
-    "land_number": "1092",
-    "directions": [
-      {
-        "key_name": "right",
-        "time_press": 1.08
-      },
-      {
-        "key_name": "up",
-        "time_press": 3.67
-      }
-    ]
-  },
-  {
-    "land_number": "1094",
-    "directions": [
-      {
-        "key_name": "right",
-        "time_press": 1.06
-      },
-      {
-        "key_name": "up",
-        "time_press": 1.97
-      },
-      {
-        "key_name": "right",
-        "time_press": 0.15
-      }
-    ]
-  },
-  {
-    "land_number": "1098",
-    "directions": [
-      {
-        "key_name": "right",
-        "time_press": 1.26
-      },
-      {
-        "key_name": "up",
-        "time_press": 1.47
-      },
-      {
-        "key_name": "left",
-        "time_press": 3.39
-      },
-      {
-        "key_name": "up",
-        "time_press": 0.95
-      }
-    ]
-  },
-  {
     "land_number": "1099",
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.15
+        "time_press": 0.99
       },
       {
         "key_name": "up",
-        "time_press": 1.86
+        "time_press": 1.26
       }
     ]
   },
@@ -230,7 +158,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.08
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -247,15 +175,11 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.08
+        "time_press": 0.99
       },
       {
         "key_name": "up",
         "time_press": 2.03
-      },
-      {
-        "key_name": "right",
-        "time_press": 0.22
       }
     ]
   },
@@ -264,7 +188,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.17
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -272,7 +196,7 @@
       },
       {
         "key_name": "left",
-        "time_press": 1.9
+        "time_press": 1.4
       }
     ]
   },
@@ -281,7 +205,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -298,15 +222,11 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.02
+        "time_press": 0.99
       },
       {
         "key_name": "up",
         "time_press": 1.79
-      },
-      {
-        "key_name": "left",
-        "time_press": 0.45
       }
     ]
   },
@@ -315,7 +235,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.3
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -328,7 +248,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -337,10 +257,6 @@
       {
         "key_name": "right",
         "time_press": 1.32
-      },
-      {
-        "key_name": "up",
-        "time_press": 0.13
       }
     ]
   },
@@ -349,15 +265,11 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.12
+        "time_press": 0.99
       },
       {
         "key_name": "up",
-        "time_press": 1.66
-      },
-      {
-        "key_name": "right",
-        "time_press": 0.13
+        "time_press": 1.56
       }
     ]
   },
@@ -366,11 +278,11 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.08
+        "time_press": 0.99
       },
       {
         "key_name": "up",
-        "time_press": 1.86
+        "time_press": 1.36
       }
     ]
   },
@@ -379,7 +291,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -387,7 +299,7 @@
       },
       {
         "key_name": "left",
-        "time_press": 2.01
+        "time_press": 1.50
       }
     ]
   },
@@ -396,7 +308,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.12
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -413,7 +325,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.04
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -439,7 +351,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 0.95
+        "time_press": 0.99
       },
       {
         "key_name": "right",
@@ -460,7 +372,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.09
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -477,7 +389,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.14
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -485,7 +397,7 @@
       },
       {
         "key_name": "left",
-        "time_press": 1.79
+        "time_press": 1.29
       }
     ]
   },
@@ -494,7 +406,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -511,7 +423,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 0.06
+        "time_press": 0.99
       },
       {
         "key_name": "right",
@@ -532,7 +444,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.0
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -549,7 +461,7 @@
     "directions": [
       {
         "key_name": "up",
-        "time_press": 2.33
+        "time_press": 0.99
       },
       {
         "key_name": "left",
@@ -562,7 +474,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -579,7 +491,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -592,7 +504,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -609,7 +521,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.02
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -626,7 +538,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.21
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -639,7 +551,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.02
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -656,7 +568,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.02
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -673,7 +585,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.03
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -690,7 +602,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.08
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -707,7 +619,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -724,11 +636,11 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
-        "time_press": 2.14
+        "time_press": 1.64
       }
     ]
   },
@@ -737,7 +649,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.08
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -754,7 +666,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -762,7 +674,7 @@
       },
       {
         "key_name": "right",
-        "time_press": 0.89
+        "time_press": 0.69
       }
     ]
   },
@@ -771,7 +683,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.08
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -788,7 +700,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.12
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -805,7 +717,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.19
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -822,7 +734,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -839,7 +751,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.08
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -856,7 +768,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -873,7 +785,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.02
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -890,7 +802,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.01
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -907,7 +819,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -924,7 +836,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -941,7 +853,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.12
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -958,7 +870,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -975,7 +887,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.18
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -992,7 +904,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.18
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1009,7 +921,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.04
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1026,7 +938,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1043,7 +955,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.12
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1060,7 +972,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.08
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1073,7 +985,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1094,7 +1006,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1111,7 +1023,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1124,7 +1036,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.08
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1141,7 +1053,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1158,7 +1070,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.17
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1171,7 +1083,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.17
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1196,7 +1108,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.17
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1213,7 +1125,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1226,11 +1138,11 @@
     ]
   },
   {
-    "land_number": "1126",
+    "land_number": "1226",
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.13
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1251,7 +1163,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1268,7 +1180,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.08
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1281,7 +1193,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1294,7 +1206,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1311,7 +1223,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1328,7 +1240,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1345,7 +1257,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.04
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1362,7 +1274,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1383,7 +1295,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.12
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1400,7 +1312,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.03
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1413,7 +1325,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.19
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1430,7 +1342,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1447,7 +1359,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1464,7 +1376,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.17
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1485,7 +1397,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1498,7 +1410,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.04
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1515,7 +1427,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.04
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1532,7 +1444,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1541,45 +1453,6 @@
       {
         "key_name": "left",
         "time_press": 1.7
-      }
-    ]
-  },
-  {
-    "land_number": "estatua1",
-    "directions": [
-      {
-        "key_name": "down",
-        "time_press": 1.51
-      },
-      {
-        "key_name": "left",
-        "time_press": 4.58
-      },
-      {
-        "key_name": "up",
-        "time_press": 1.66
-      }
-    ]
-  },
-  {
-    "land_number": "officer",
-    "directions": [
-      {
-        "key_name": "right",
-        "time_press": 0.54
-      }
-    ]
-  },
-  {
-    "land_number": "officer2",
-    "directions": [
-      {
-        "key_name": "right",
-        "time_press": 1.64
-      },
-      {
-        "key_name": "up",
-        "time_press": 3.58
       }
     ]
   }

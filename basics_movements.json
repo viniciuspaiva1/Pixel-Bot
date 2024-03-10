@@ -1,0 +1,34 @@
+{
+    "statue_up": [
+        {
+            "key_name": "down",
+            "time_press": 1.51
+        },
+        {
+            "key_name": "left",
+            "time_press": 4.58
+        }
+    ],
+   
+    "statue_down":[
+        {
+            "key_name": "up",
+            "time_press": 1.51
+        },
+        {
+            "key_name": "left",
+            "time_press": 4.58
+        }
+    ],
+
+    "go_infiniportal": [
+        {
+            "key_name": "right",
+            "time_press": 1.54
+        },
+        {
+            "key_name": "up",
+            "time_press": 3.58
+        }
+    ]
+}
