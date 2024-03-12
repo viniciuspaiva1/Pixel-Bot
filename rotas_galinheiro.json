@@ -68,7 +68,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -187,7 +187,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.05
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -230,7 +230,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.08
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -350,15 +350,6 @@
     ]
   },
   {
-    "land_number": "578",
-    "directions": [
-      {
-        "key_name": "up",
-        "time_press": 1.48
-      }
-    ]
-  },
-  {
     "land_number": "579",
     "directions": [
       {
@@ -423,28 +414,6 @@
       {
         "key_name": "right",
         "time_press": 1.63
-      }
-    ]
-  },
-  {
-    "land_number": "714",
-    "directions": [
-      {
-        "key_name": "up",
-        "time_press": 1.15
-      },
-      {
-        "key_name": "right",
-        "time_press": 1.04
-      }
-    ]
-  },
-  {
-    "land_number": "759",
-    "directions": [
-      {
-        "key_name": "up",
-        "time_press": 1.8
       }
     ]
   },
@@ -744,19 +713,6 @@
     ]
   },
   {
-    "land_number": "2082",
-    "directions": [
-      {
-        "key_name": "right",
-        "time_press": 1.03
-      },
-      {
-        "key_name": "up",
-        "time_press": 3.25
-      }
-    ]
-  },
-  {
     "land_number": "2084",
     "directions": [
       {
@@ -859,19 +815,6 @@
     ]
   },
   {
-    "land_number": "2125",
-    "directions": [
-      {
-        "key_name": "right",
-        "time_press": 1.02
-      },
-      {
-        "key_name": "up",
-        "time_press": 2.13
-      }
-    ]
-  },
-  {
     "land_number": "2126",
     "directions": [
       {
@@ -936,32 +879,11 @@
     ]
   },
   {
-    "land_number": "2228",
-    "directions": [
-      {
-        "key_name": "right",
-        "time_press": 0.98
-      },
-      {
-        "key_name": "up",
-        "time_press": 1.51
-      },
-      {
-        "key_name": "right",
-        "time_press": 2.01
-      },
-      {
-        "key_name": "up",
-        "time_press": 0.47
-      }
-    ]
-  },
-  {
     "land_number": "2229",
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.04
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -991,7 +913,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 0.92
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1021,7 +943,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.03
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1038,7 +960,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.02
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1055,7 +977,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.02
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1085,7 +1007,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.03
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1100,10 +1022,6 @@
   {
     "land_number": "2418",
     "directions": [
-      {
-        "key_name": "right",
-        "time_press": 0.7
-      },
       {
         "key_name": "up",
         "time_press": 2.15
@@ -1140,7 +1058,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.02
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1179,7 +1097,7 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.1
+        "time_press": 0.99
       },
       {
         "key_name": "up",
@@ -1213,11 +1131,1609 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 1.01
+        "time_press": 0.99
       },
       {
         "key_name": "up",
         "time_press": 1.72
+      }
+    ]
+  },
+  {
+    "land_number": "1101",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 2.43
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.28
+      }
+    ]
+  },
+  {
+    "land_number": "1102",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.96
+      },
+      {
+        "key_name": "right",
+        "time_press": 0.04
+      }
+    ]
+  },
+  {
+    "land_number": "1103",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.54
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.28
+      }
+    ]
+  },
+  {
+    "land_number": "1104",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.82
+      },
+      {
+        "key_name": "left",
+        "time_press": 4.54
+      }
+    ]
+  },
+  {
+    "land_number": "1105",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press":0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.5
+      },
+      {
+        "key_name": "left",
+        "time_press": 0.54
+      }
+    ]
+  },
+  {
+    "land_number": "1175",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 1.4
+      },
+      {
+        "key_name": "left",
+        "time_press": 0.62
+      }
+    ]
+  },
+  {
+    "land_number": "1176",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.68
+      },
+      {
+        "key_name": "right",
+        "time_press": 1.29
+      }
+    ]
+  },
+  {
+    "land_number": "1177",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.5
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.8
+      }
+    ]
+  },
+  {
+    "land_number": "1179",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 1.04
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.1
+      }
+    ]
+  },
+  {
+    "land_number": "1222",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 1.85
+      }
+    ]
+  },
+  {
+    "land_number": "1224",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.71
+      }
+    ]
+  },
+  {
+    "land_number": "1225",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.45
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.34
+      }
+    ]
+  },
+  {
+    "land_number": "1226",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.82
+      },
+      {
+        "key_name": "right",
+        "time_press": 1.32
+      },
+      {
+        "key_name": "up",
+        "time_press": 0.98
+      }
+    ]
+  },
+  {
+    "land_number": "1227",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.89
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.42
+      }
+    ]
+  },
+  {
+    "land_number": "1296",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 2.69
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.29
+      }
+    ]
+  },
+  {
+    "land_number": "1297",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 0.42
+      },
+      {
+        "key_name": "right",
+        "time_press": 0.98
+      },
+      {
+        "key_name": "up",
+        "time_press": 0.97
+      },
+      {
+        "key_name": "right",
+        "time_press": 1.06
+      }
+    ]
+  },
+  {
+    "land_number": "1298",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.88
+      },
+      {
+        "key_name": "right",
+        "time_press": 3.41
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.14
+      }
+    ]
+  },
+  {
+    "land_number": "1299",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.68
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.38
+      }
+    ]
+  },
+  {
+    "land_number": "1300",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.33
+      },
+      {
+        "key_name": "right",
+        "time_press": 3.42
+      }
+    ]
+  },
+  {
+    "land_number": "1338",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 2.9
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.15
+      }
+    ]
+  },
+  {
+    "land_number": "1339",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.74
+      },
+      {
+        "key_name": "right",
+        "time_press": 1.16
+      }
+    ]
+  },
+  {
+    "land_number": "1340",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.1
+      },
+      {
+        "key_name": "right",
+        "time_press": 3.29
+      }
+    ]
+  },
+  {
+    "land_number": "1341",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.56
+      }
+    ]
+  },
+  {
+    "land_number": "1342",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.89
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.54
+      }
+    ]
+  },
+  {
+    "land_number": "1385",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 3.5
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.42
+      }
+    ]
+  },
+  {
+    "land_number": "1386",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.83
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.5
+      }
+    ]
+  },
+  {
+    "land_number": "1387",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.46
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.41
+      }
+    ]
+  },
+  {
+    "land_number": "1388",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.29
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.46
+      }
+    ]
+  },
+  {
+    "land_number": "1389",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.6
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.34
+      }
+    ]
+  },
+  {
+    "land_number": "1395",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 3.26
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.38
+      }
+    ]
+  },
+  {
+    "land_number": "1396",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.98
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.15
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.16
+      }
+    ]
+  },
+  {
+    "land_number": "1397",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.98
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.1
+      }
+    ]
+  },
+  {
+    "land_number": "1398",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.7
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.92
+      }
+    ]
+  },
+  {
+    "land_number": "1399",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.66
+      },
+      {
+        "key_name": "right",
+        "time_press": 1.27
+      }
+    ]
+  },
+  {
+    "land_number": "1400",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.53
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.14
+      }
+    ]
+  },
+  {
+    "land_number": "1401",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.75
+      },
+      {
+        "key_name": "right",
+        "time_press": 0.97
+      }
+    ]
+  },
+  {
+    "land_number": "1402",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.61
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.24
+      }
+    ]
+  },
+  {
+    "land_number": "1403",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 5.26
+      }
+    ]
+  },
+  {
+    "land_number": "1404",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.98
+      },
+      {
+        "key_name": "right",
+        "time_press": 0.47
+      }
+    ]
+  },
+  {
+    "land_number": "1406",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.77
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.2
+      }
+    ]
+  },
+  {
+    "land_number": "1407",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.84
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.08
+      }
+    ]
+  },
+  {
+    "land_number": "1408",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.88
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.25
+      }
+    ]
+  },
+  {
+    "land_number": "1409",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 5.34
+      },
+      {
+        "key_name": "right",
+        "time_press": 0.68
+      }
+    ]
+  },
+  {
+    "land_number": "1410",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.53
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.3
+      }
+    ]
+  },
+  {
+    "land_number": "1411",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.39
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.57
+      }
+    ]
+  },
+  {
+    "land_number": "1412",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.99
+      },
+      {
+        "key_name": "left",
+        "time_press": 0.59
+      }
+    ]
+  },
+  {
+    "land_number": "1439",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 0.17
+      },
+      {
+        "key_name": "left",
+        "time_press": 0.54
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.05
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.09
+      }
+    ]
+  },
+  {
+    "land_number": "1440",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.74
+      }
+    ]
+  },
+  {
+    "land_number": "1441",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.74
+      },
+      {
+        "key_name": "left",
+        "time_press": 0.46
+      }
+    ]
+  },
+  {
+    "land_number": "1442",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.93
+      },
+      {
+        "key_name": "left",
+        "time_press": 0.5
+      }
+    ]
+  },
+  {
+    "land_number": "1444",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 1.01
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.47
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.46
+      }
+    ]
+  },
+  {
+    "land_number": "1445",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.14
+      },
+      {
+        "key_name": "left",
+        "time_press": 0.26
+      }
+    ]
+  },
+  {
+    "land_number": "1454",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 2.47
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.13
+      }
+    ]
+  },
+  {
+    "land_number": "1455",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.45
+      }
+    ]
+  },
+  {
+    "land_number": "1456",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.28
+      }
+    ]
+  },
+  {
+    "land_number": "1457",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.84
+      },
+      {
+        "key_name": "right",
+        "time_press": 2.35
+      }
+    ]
+  },
+  {
+    "land_number": "1458",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 1.01
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.94
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.1
+      }
+    ]
+  },
+  {
+    "land_number": "1643",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 1.66
+      }
+    ]
+  },
+  {
+    "land_number": "1644",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.82
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.22
+      }
+    ]
+  },
+  {
+    "land_number": "1645",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.61
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.1
+      }
+    ]
+  },
+  {
+    "land_number": "1646",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.62
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.1
+      }
+    ]
+  },
+  {
+    "land_number": "1647",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.98
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.1
+      },
+      {
+        "key_name": "right",
+        "time_press": 3.15
+      }
+    ]
+  },
+  {
+    "land_number": "1648",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.29
+      },
+      {
+        "key_name": "right",
+        "time_press": 3.73
+      }
+    ]
+  },
+  {
+    "land_number": "1672",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 3.18
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.66
+      }
+    ]
+  },
+  {
+    "land_number": "1673",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.45
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.41
+      }
+    ]
+  },
+  {
+    "land_number": "1674",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.71
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.38
+      }
+    ]
+  },
+  {
+    "land_number": "1675",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.71
+      },
+      {
+        "key_name": "right",
+        "time_press": 0.94
+      }
+    ]
+  },
+  {
+    "land_number": "1676",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.02
+      },
+      {
+        "key_name": "left",
+        "time_press": 0.41
+      }
+    ]
+  },
+  {
+    "land_number": "1701",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 1.74
+      },
+      {
+        "key_name": "left",
+        "time_press": 0.57
+      }
+    ]
+  },
+  {
+    "land_number": "1702",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.45
+      }
+    ]
+  },
+  {
+    "land_number": "1703",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.98
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.57
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.5
+      }
+    ]
+  },
+  {
+    "land_number": "1704",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.88
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.24
+      }
+    ]
+  },
+  {
+    "land_number": "1705",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.54
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.53
+      }
+    ]
+  },
+  {
+    "land_number": "1706",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.34
+      },
+      {
+        "key_name": "right",
+        "time_press": 3.21
+      },
+      {
+        "key_name": "up",
+        "time_press": 0.13
+      },
+      {
+        "key_name": "right",
+        "time_press": 0.62
+      },
+      {
+        "key_name": "up",
+        "time_press": 0.42
+      },
+      {
+        "key_name": "right",
+        "time_press": 0.18
+      },
+      {
+        "key_name": "up",
+        "time_press": 0.34
+      }
+    ]
+  },
+  {
+    "land_number": "1707",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.56
+      }
+    ]
+  },
+  {
+    "land_number": "1766",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 1.52
+      }
+    ]
+  },
+  {
+    "land_number": "1767",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.0
+      },
+      {
+        "key_name": "right",
+        "time_press": 3.26
+      }
+    ]
+  },
+  {
+    "land_number": "1768",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 1.0
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.86
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.42
+      }
+    ]
+  },
+  {
+    "land_number": "1769",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.77
+      },
+      {
+        "key_name": "right",
+        "time_press": 0.16
+      },
+      {
+        "key_name": "up",
+        "time_press": 0.83
+      },
+      {
+        "key_name": "left",
+        "time_press": 0.22
+      }
+    ]
+  },
+  {
+    "land_number": "1770",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.18
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.68
+      }
+    ]
+  },
+  {
+    "land_number": "1775",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 2.46
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.4
+      }
+    ]
+  },
+  {
+    "land_number": "1776",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.97
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.46
+      },
+      {
+        "key_name": "right",
+        "time_press": 1.12
+      }
+    ]
+  },
+  {
+    "land_number": "1777",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.33
+      },
+      {
+        "key_name": "right",
+        "time_press": 0.89
+      }
+    ]
+  },
+  {
+    "land_number": "1778",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.48
+      }
+    ]
+  },
+  {
+    "land_number": "1779",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.85
+      }
+    ]
+  },
+  {
+    "land_number": "1780",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.57
+      },
+      {
+        "key_name": "right",
+        "time_press": 3.18
+      }
+    ]
+  },
+  {
+    "land_number": "1781",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.52
+      },
+      {
+        "key_name": "right",
+        "time_press": 1.06
+      }
+    ]
+  },
+  {
+    "land_number": "1873",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 1.5
+      },
+      {
+        "key_name": "left",
+        "time_press": 1.26
+      }
+    ]
+  },
+  {
+    "land_number": "1874",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 4.06
+      }
+    ]
+  },
+  {
+    "land_number": "1875",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.7
+      },
+      {
+        "key_name": "right",
+        "time_press": 2.61
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.48
+      }
+    ]
+  },
+  {
+    "land_number": "1876",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.54
+      },
+      {
+        "key_name": "right",
+        "time_press": 1.13
+      }
+    ]
+  },
+  {
+    "land_number": "1877",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 1.0
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.74
+      },
+      {
+        "key_name": "right",
+        "time_press": 2.37
+      }
+    ]
+  },
+  {
+    "land_number": "1964",
+    "directions": [
+      {
+        "key_name": "up",
+        "time_press": 3.24
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.67
+      }
+    ]
+  },
+  {
+    "land_number": "1965",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.23
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.58
+      }
+    ]
+  },
+  {
+    "land_number": "1966",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.69
+      },
+      {
+        "key_name": "left",
+        "time_press": 0.36
+      }
+    ]
+  },
+  {
+    "land_number": "1967",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 3.44
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.64
+      }
+    ]
+  },
+  {
+    "land_number": "1968",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.66
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.04
+      },
+      {
+        "key_name": "up",
+        "time_press": 0.63
+      }
+    ]
+  },
+  {
+    "land_number": "1969",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 2.59
+      },
+      {
+        "key_name": "right",
+        "time_press": 0.62
       }
     ]
   }

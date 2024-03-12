@@ -6,5 +6,115 @@
     "group 02": {
         "initial_land": 189,
         "final_land": 194
+    },
+     "group 03": {
+        "initial_land": 249,
+        "final_land": 253
+    },
+    "group 04": {
+        "initial_land": 500,
+        "final_land": 504
+    },
+    "group 05": {
+        "initial_land": 578,
+        "final_land": 582
+    },
+    "group 06": {
+        "initial_land": 805,
+        "final_land": 809
+    },
+    "group 07": {
+        "initial_land": 816,
+        "final_land": 820
+    },
+    "group 08": {
+        "initial_land": 922,
+        "final_land": 926
+    },
+
+    "group 09": {
+        "initial_land": 2078,
+        "final_land": 2087
+    },
+    "group 10": {
+        "initial_land": 2123,
+        "final_land": 2128
+    },
+    "group 11": {
+        "initial_land": 2227,
+        "final_land": 2231
+    },
+   "group 12": {
+        "initial_land": 2362,
+        "final_land": 2367
+    },
+   "group 13": {
+        "initial_land": 2418,
+        "final_land": 2421
+    },
+    "group 15": {
+        "initial_land": 1101,
+        "final_land": 1105
+    },
+    "group 16": {
+        "initial_land": 1175,
+        "final_land": 1179
+    },
+    "group 17": {
+        "initial_land": 1222,
+        "final_land": 1227
+    },
+    "group 18": {
+        "initial_land": 1296,
+        "final_land": 1300
+    },
+    "group 19": {
+        "initial_land": 1338,
+        "final_land": 1342
+    },
+    "group 20": {
+        "initial_land": 1385,
+        "final_land": 1389
+    },
+    "group 21": {
+        "initial_land": 1395,
+        "final_land": 1412
+    }, 
+    "group 22": {
+        "initial_land": 1439,
+        "final_land": 1445
+    },
+    "group 23": {
+        "initial_land": 1454,
+        "final_land": 1458
+    },
+    "group 24": {
+        "initial_land": 1643,
+        "final_land": 1648
+    },
+    "group 25": {
+        "initial_land": 1672,
+        "final_land": 1676
+    },
+    "group 26": {
+        "initial_land": 1701,
+        "final_land": 1707
+    },
+    "group 27": {
+        "initial_land": 1766,
+        "final_land": 1770
+    },
+    "group 28": {
+        "initial_land": 1775,
+        "final_land": 1781
+    },
+    "group 29": {
+        "initial_land": 1873,
+        "final_land": 1877
+    },
+    "group 30": {
+        "initial_land": 1964,
+        "final_land": 1969
     }
+
 }
