@@ -568,11 +568,11 @@
     "directions": [
       {
         "key_name": "up",
-        "time_press": 2.06
+        "time_press": 1.48
       },
       {
         "key_name": "right",
-        "time_press": 1.87
+        "time_press": 2.26
       }
     ]
   },
@@ -1290,6 +1290,31 @@
     ]
   },
   {
+    "land_number": "1223",
+    "directions": [
+      {
+        "key_name": "right",
+        "time_press": 0.99
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.31
+      },
+      {
+        "key_name": "left",
+        "time_press": 0.74
+      },
+      {
+        "key_name": "up",
+        "time_press": 1.88
+      },
+      {
+        "key_name": "left",
+        "time_press": 2.89
+      }
+    ]
+  },
+  {
     "land_number": "1224",
     "directions": [
       {
@@ -1362,11 +1387,11 @@
     "directions": [
       {
         "key_name": "up",
-        "time_press": 2.69
+        "time_press": 2.63
       },
       {
         "key_name": "left",
-        "time_press": 2.29
+        "time_press": 2.41
       }
     ]
   },
@@ -1374,20 +1399,16 @@
     "land_number": "1297",
     "directions": [
       {
-        "key_name": "up",
-        "time_press": 0.42
-      },
-      {
         "key_name": "right",
-        "time_press": 0.98
+        "time_press": 0.99
       },
       {
         "key_name": "up",
-        "time_press": 0.97
+        "time_press": 1.49
       },
       {
         "key_name": "right",
-        "time_press": 1.06
+        "time_press": 1.22
       }
     ]
   },
@@ -1451,11 +1472,11 @@
     "directions": [
       {
         "key_name": "up",
-        "time_press": 2.9
+        "time_press": 2.24
       },
       {
         "key_name": "left",
-        "time_press": 2.15
+        "time_press": 2.6
       }
     ]
   },
@@ -1464,15 +1485,19 @@
     "directions": [
       {
         "key_name": "right",
-        "time_press": 0.99
+        "time_press":0.99
       },
       {
         "key_name": "up",
-        "time_press": 2.74
+        "time_press": 1.85
       },
       {
         "key_name": "right",
-        "time_press": 1.16
+        "time_press": 1.97
+      },
+      {
+        "key_name": "up",
+        "time_press": 0.36
       }
     ]
   },
